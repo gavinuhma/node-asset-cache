@@ -1,0 +1,21 @@
+{
+  "author": "Gavin Uhma",
+  "name": "asset-cache",
+  "description": "Asset server with caching in node.js. Used for local development",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gavinuhma/node-asset-cache",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gavinuhma/node-asset-cache.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "asset",
+    "cache",
+    "development",
+    "etag"
+  ],
+  "main": "index"
+}
