@@ -1,4 +1,3 @@
-
 # node-asset-server
 
   A simple asset server with caching in node.js. Used for local development.
@@ -17,7 +16,7 @@ server.listen(PORT, function() {
 
 (The MIT License)
 
-Copyright (c) 2012 Gavin Uhma
+Copyright (c) 2012 GoInstant, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
