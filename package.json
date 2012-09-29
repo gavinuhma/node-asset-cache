@@ -2,7 +2,7 @@
   "author": "Gavin Uhma",
   "name": "asset-cache",
   "description": "Asset server with caching in node.js. Used for local development",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/gavinuhma/node-asset-cache",
   "repository": {
     "type": "git",
