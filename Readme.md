@@ -2,12 +2,16 @@
 
   A simple asset server with caching in node.js. Used for local development.
 
-## API
+## Install
+
+`npm install asset-cache`
+
+## Example
 
 ```js
-var server = require('./lib/asset-cache');
+var assets = require('asset-cache');
 var PORT = 9000;
-server.listen(PORT, function() {
+assets.listen(PORT, function() {
   console.log('\tAsset server listening on port', PORT);
 });
 ```
